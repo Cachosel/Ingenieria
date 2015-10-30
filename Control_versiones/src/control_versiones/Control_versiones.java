@@ -6,6 +6,8 @@
 
 package control_versiones;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Joaquin
@@ -17,6 +19,8 @@ public class Control_versiones {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null,"Ejemplo de control de versiones");
     }
     
 }
