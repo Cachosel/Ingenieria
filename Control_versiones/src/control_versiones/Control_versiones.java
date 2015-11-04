@@ -21,7 +21,7 @@ public class Control_versiones {
         // TODO code application logic here
         
         JOptionPane.showMessageDialog(null,"Ejemplo de control de versiones");
-        // ejemplo para Ingenieria del Software.
+        // ejemplo de GITHUB Para Ingenieria
     }
     
 }
